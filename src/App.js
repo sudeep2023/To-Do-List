@@ -43,7 +43,7 @@ function App() {
     }
   };
 
-  //Use Effect
+  //Use Effectt
   useEffect(() => {
     filterHandler();
     saveLocalTodos();
